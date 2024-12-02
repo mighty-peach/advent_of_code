@@ -1,5 +1,4 @@
 defmodule AdventOfCode.Day1 do
-  alias JasonV.Encode
   require Logger
   import AdventOfCode.FileHandler
 
